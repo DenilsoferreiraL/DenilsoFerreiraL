@@ -1,7 +1,6 @@
-<div align="center">
+<div align="center"> 
 
 <h1>✨ Denilso Ferreira ✨</h1>
-
 <h3>Desenvolvedor Web | Front-end </h3>
 
 <br>
@@ -24,7 +23,10 @@
 
 <div align="center">
 
-Resolvo problemas do mundo real por meio de design intuitivo e desenvolvimento front-end de alto desempenho.
+Sempre fui movido pela curiosidade de entender como a tecnologia pode transformar ideias em soluções reais.  
+Desde julho de 2023 atuo como **freelancer front-end**, ajudando a construir aplicações modernas, rápidas e escaláveis.  
+
+O que mais me motiva é ver como algumas linhas de código podem gerar impacto no dia a dia das pessoas — unindo **design, performance e usabilidade** em cada entrega.  
 
 ✨ Criatividade | 🎯 Precisão | ⚡ Alta Performance
 
@@ -45,11 +47,11 @@ Resolvo problemas do mundo real por meio de design intuitivo e desenvolvimento f
 </td>
 <td align="left" width="50%">
   
-- 🎨 Desenvolvimento Front-end: React, TypeScript, TailwindCSS e Styled-components 
-- ⚡ Performance e Otimização: Interfaces ultra-rápidas e fluidas  
-- 📱 Design Responsivo: Mobile-first e 100% adaptável  
-- 🛠️ Código Escalável: Estrutura modular e organizada  
-- 🚀 Foco em Usabilidade: Experiência do usuário sempre em primeiro lugar
+- 🎨 **Front-end moderno:** React, Next.js, TypeScript e TailwindCSS  
+- ⚡ **Performance garantida:** SSR/SSG, otimização e caching  
+- 📱 **Design Responsivo:** Mobile-first e adaptável a qualquer tela  
+- 🛠️ **Código Escalável:** Estrutura modular e bem organizada  
+- 🚀 **Experiência do Usuário:** foco sempre na usabilidade  
 
 </td>
 </tr>
@@ -70,41 +72,41 @@ Resolvo problemas do mundo real por meio de design intuitivo e desenvolvimento f
 <table>
 <tr>
 <th>🖥️ Front-end</th>
-<th>🔧 Backend (básico)</th>
+<th>🔧 Conhecimento em Back-end</th>
 <th>☁️ Infraestrutura</th>
 </tr>
 <tr>
 <td align="center">
 <br>
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,figma" alt="Frontend icons" width="180px">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents,figma" alt="Frontend icons" width="220px">
 <br><br>
 <ul align="left">
-<li>React.js</li>
-<li>TypeScript moderno</li>
-<li>TailwindCSS</li>
-<li>Criação de Design Systems no Figma</li>
+<li>React.js e Next.js</li>
+<li>TypeScript e JavaScript</li>
+<li>TailwindCSS & Styled Components</li>
+<li>Design Systems no Figma</li>
 </ul>
 </td>
 <td align="center">
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend icons" width="120px">
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" alt="Backend icons" width="150px">
 <br><br>
 <ul align="left">
-<li>Node.js para sistemas escaláveis</li>
-<li>APIs RESTful com boas práticas</li>
-<li>Integração com APIs externas</li>
-<li>Autenticação JWT segura</li>
+<li>Node.js e Express</li>
+<li>Integração com REST e GraphQL</li>
+<li>Validações com Zod</li>
+<li>Autenticação JWT</li>
 </ul>
 </td>
 <td align="center">
 <br>
-<img src="https://skillicons.dev/icons?i=docker,vercel,github" alt="Infraestrutura icons" width="150px">
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github" alt="Infraestrutura icons" width="200px">
 <br><br>
 <ul align="left">
-<li>Deploys otimizados (Vercel)</li>
+<li>Deploy em AWS e Vercel</li>
 <li>Dockerização de projetos leves</li>
-<li>GitHub para versionamento</li>
-<li>Configuração CI/CD básica</li>
+<li>Versionamento com Git/GitHub</li>
+<li>CI/CD simplificado</li>
 </ul>
 </td>
 </tr>
@@ -126,9 +128,9 @@ Resolvo problemas do mundo real por meio de design intuitivo e desenvolvimento f
 
 <ul align="left">
 <li>🚀 Melhoria de 45% no tempo de carregamento em projetos recentes</li>
-<li>🎯 Interfaces 100% responsivas: experiência mobile aprimorada</li>
+<li>🎯 Interfaces 100% responsivas com foco na experiência mobile</li>
 <li>⚡ Design Systems otimizados para escalabilidade e consistência</li>
-<li>📈 Landing Pages de alta performance focadas em SEO</li>
+<li>📈 Landing Pages de alta performance com foco em SEO</li>
 </ul>
 
 </div>
@@ -152,4 +154,3 @@ Resolvo problemas do mundo real por meio de design intuitivo e desenvolvimento f
 </div>
 
 ---
-
