@@ -26,7 +26,7 @@
 Sempre fui movido pela curiosidade de entender como a tecnologia pode transformar ideias em soluções reais.  
 Desde julho de 2023 atuo como **freelancer front-end**, ajudando a construir aplicações modernas, rápidas e escaláveis.  
 
-O que mais me motiva é ver como algumas linhas de código podem gerar impacto no dia a dia das pessoas — unindo **design, performance e usabilidade** em cada entrega.  
+O que mais me motiva é ver como algumas linhas de código podem gerar impacto no dia a dia das pessoas unindo **design, performance e usabilidade** em cada entrega.  
 
 ✨ Criatividade | 🎯 Precisão | ⚡ Alta Performance
 
